@@ -4,5 +4,5 @@ I am a Computer Science student and I have been working as a developer for 4 yea
 
 Welcome to my profile and feel free!
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapedro&layout=compact&exclude_repo=projeto-portfolio,renato-sfera&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=lyrapedro&layout=compact&show_icons=true&theme=tokyonight)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapedro&layout=compact&exclude_repo=projeto-portfolio,renato-sfera&lang_count=4&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=lyrapedro&hide=contribs,prs&show_icons=true&theme=tokyonight)
