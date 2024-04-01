@@ -1,5 +1,5 @@
 Hello, my name is Pedro!
-I am a Computer Science student and I have been working as a developer for 4 years. I started with Python frameworks (Flask and Django), and I found myself as a .NET developer, working for 5 years with this technology. This year, I started my journey chasing my dream of becoming a game developer. I know it will be a long road to go, but I am focused, and until then I will continue working as a .NET developer.
+I am a Computer Scientist and I have been working as a developer for 5 years. I found myself as a .NET developer, working for 5 years with this technology. I'm passionate about games, and this year I decided to develop my first indie game, using Godot with C#, because I'm a big enthusiast of open-source projects. I also tend to develop some bots for Discord servers that I'm part of. In the near future, I aim for a postgraduate degree in AI, to work with AI applied to games.
 
 Welcome to my profile and feel free!
 
